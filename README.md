@@ -91,8 +91,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Screenshots
 Here are some screenshots from the application:
 
-- Intro Screen <img src="screenshots/intro.png" width="200">
-- Main Screen <img src="screenshots/main.png" width="200">
-- Item Details <img src="screenshots/item.png" width="200">
-- Cart Screen <img src="screenshots/cart.png" width="200">
+<img src="screenshots/intro.png" width="200">
+<img src="screenshots/main.png" width="200">
+<img src="screenshots/item.png" width="200">
+<img src="screenshots/cart.png" width="200">
 
