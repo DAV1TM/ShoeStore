@@ -48,13 +48,7 @@ The application consists of the following activities:
 9. **SearchActivity**: Provides a search interface to find specific shoes.
 10. **BaseActivity**: A base class for other activities, providing common functionality.
 
-## Screenshots
-Here are some screenshots from the application:
 
-- Intro Screen ![Intro](screenshots/intro.png =200x)
-- Main Screen ![Main](screenshots/main.png =200x)
-- Item Details ![Item](screenshots/item.png =200x)
-- Cart Screen ![Cart](screenshots/cart.png =200x)
 
 ## Installation
 To get started with ShoeStore, follow these steps:
@@ -93,4 +87,12 @@ Contributions are welcome! Fork this repository to contribute.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
+
+## Screenshots
+Here are some screenshots from the application:
+
+- Intro Screen <img src="screenshots/intro.png" width="200">
+- Main Screen <img src="screenshots/main.png" width="200">
+- Item Details <img src="screenshots/item.png" width="200">
+- Cart Screen <img src="screenshots/cart.png" width="200">
+
